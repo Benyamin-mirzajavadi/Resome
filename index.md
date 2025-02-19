@@ -1,30 +1,31 @@
 
-### Anahita Taheri
+### Bemyamin Mirzajavadi 
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Benyamin
++ last name : Mirzajavadi 
++ Date of birth : 2005/December /5
++ IT engineering student, not professional developer yet but actively improving my skills through self - study and paractice
++ front-end
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ front-end learning 
++ Startup idea, try to run a new online startup
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
++ Diploma 
 + Bachelor of science : IT Engineering
-_ payam Noor University of North 
+
 
 ### language
 
@@ -35,18 +36,17 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
-+ travel 
-+ playing volleyball
++ Book
++ Development things
++ Somthimes football 
+  
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ A few small proeject 
 
 
 
 
---- 
-### [رزومه فارسی](resume-fa.md)
+
